@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  letter-spacing: 0.06em;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.8rem;
+  letter-spacing: 0.06em;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25rem;
+  letter-spacing: 0.06em;
+}
+
+p {
+  font-family:'Montserrat', sans-serif;
+  font-size: 1rem;
+  letter-spacing: 0.04em;
+}
+
+.calc-text--white {
+  color: #ffffff;
+}
+
+.calc-text--center {
+  margin: 0 auto;
+  text-align: center;
+}

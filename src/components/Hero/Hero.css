@@ -1,0 +1,25 @@
+.calc-hero__background {
+  display: flex;
+  background-image: linear-gradient(to right top, #88cb9b, #6cbc98, #51ae96, #359e92, #138f8e);
+  min-height: 100vh;
+  justify-content: center;
+}
+
+.calc-hero__container {
+  height: 100%;
+  margin-top: 7%;
+  width: 90%;
+}
+
+.calc-hero__form-background {
+  background-color: rgba(239,239,239, 0.8);
+  margin: 10% 0;
+  box-shadow: 7px -4px 7px -4px rgba(0, 0, 0, 0.2);
+  padding: 10% 0;
+}
+
+@media screen and (min-width: 640px) {
+  .calc-hero__container  {
+    width: 50%;
+  }
+}
